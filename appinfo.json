@@ -1,0 +1,27 @@
+{
+  "uuid": "50a36d0d-b5fc-476b-85b8-3a9e00df4725",
+  "shortName": "Fish Time",
+  "longName": "Fish Time",
+  "companyName": "adamnfish",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "JOURNAL_64",
+        "file": "journal.ttf"
+      },
+      {
+        "type": "png",
+        "name": "FISH",
+        "file": "fish.png"
+      }
+    ]
+  }
+}
