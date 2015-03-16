@@ -1,5 +1,5 @@
-Fish Time
-=========
+Fishy Time
+==========
 
 A trivial watchapp for the pebble smartwatch. Shows a picture of a
 fish above the time.
